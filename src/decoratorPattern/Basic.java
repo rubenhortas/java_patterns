@@ -1,5 +1,6 @@
 package decoratorPattern;
 
+@SuppressWarnings("unused")
 public class Basic {
     private String value;
 
