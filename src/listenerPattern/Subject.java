@@ -1,6 +1,7 @@
 package listenerPattern;
 
 public class Subject {
+	@SuppressWarnings("FieldCanBeLocal")
 	private Listener listener = null;
 	
 	public static void main(String[] args) {
