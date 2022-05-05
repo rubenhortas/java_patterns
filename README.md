@@ -1,3 +1,2 @@
-# java_patterns
-Examples of patterns implemented on java
-
+# java patterns
+Examples of code patterns implemented on Java
